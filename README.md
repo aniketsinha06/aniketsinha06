@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am <a href =  "aniketsinha06.github.io">Aniket Sinha!</a></br> 👋
 
 <!--
 **aniketsinha06/aniketsinha06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
