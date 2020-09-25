@@ -1,5 +1,5 @@
 ### Hi there, I am <a href =  "aniketsinha06.github.io">Aniket Sinha!</a> 👋
-#### 📫 Visit my Protfolio: <a href =  "aniketsinha06.github.io">Click Here</a>
+#### 📫 Visit my Protfolio <a href =  "aniketsinha06.github.io">here</a>
 #### 🔭 I’m currently working on project - Virtual Voice Assistant
 
 
