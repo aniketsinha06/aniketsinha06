@@ -1,6 +1,6 @@
 ### Hi there, I am <a href =  "aniketsinha06.github.io">Aniket Sinha!</a> 👋
 #### 📫 Visit my Protfolio <a href =  "https://aniketsinha06.github.io/voice_assistant.html">here</a>
-#### 🔭 I’m currently working on project - <a href =  "https://aniketsinha06.github.io/voice_assistant.html">Virtual Voice Assistant</a>
+#### 🔭 I’m currently working to implement new module on my project - <a href =  "https://aniketsinha06.github.io/voice_assistant.html">Virtual Voice Assistant</a>
 #### 🌱 I’m working on Data Science project - "Coronavirus Outbreak Prediction Using Machine Learning"
 
 
