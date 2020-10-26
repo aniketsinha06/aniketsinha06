@@ -1,6 +1,6 @@
 ### Hi there, I am <a href =  "aniketsinha06.github.io">Aniket Sinha!</a> 👋
 #### 📫 Visit my Protfolio <a href =  "https://aniketsinha06.github.io/voice_assistant.html">here</a>
-#### 📫 Connect with me on <a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a>
+#### 💬 Connect with me on <a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a>
 #### 🔭 I’m currently working to implement new modules on my project - <a href =  "https://aniketsinha06.github.io/voice_assistant.html">Virtual Voice Assistant</a>
 #### 🌱 I’m working on Data Science and Computer Vision project - "Coronavirus Outbreak Prediction Using Machine Learning" and "Face Mast Detection"
 
