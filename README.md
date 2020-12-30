@@ -2,7 +2,7 @@
 #### 📫 Visit my Portfolio <a href =  "https://aniketsinha06.github.io/">here</a>
 #### 💬 Connect with me on <a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a>
 #### 🔭 I’m currently working to implement new modules in my project - <a href =  "https://aniketsinha06.github.io/voice_assistant.html">Virtual Voice Assistant</a>
-#### 🌱 I’m working on a Data Science/Analyst project - "Coronavirus Outbreak Prediction Using Machine Learning"
+#### 🌱 I’m working on a Data Science/Analyst project - "Coronavirus Outbreak Prediction Using Machine Learning and AI"
 #### ⚡ I’m working as an AI Engineer intern to develop an AI Chatbot helper with Looper Room on Microsoft Azure Mobile Application, Web Bot and Juji Platform.
 
 <!--
